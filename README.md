@@ -1,5 +1,5 @@
 # Restaurant-System
-#Accessing the Administrator Interface
+# Accessing the Administrator Interface
 Within each established dining establishment, a singular administrator account is automatically generated. To gain entry, the administrator's designated username and password must be provided. Additional accounts generated via app registration are designated as standard guest accounts by default.
 
 # Data Management Details
